@@ -1,1 +1,1 @@
-![alt text](i.imgur.com/cm5PrEt.png)
+<img src="http://i.imgur.com/cm5PrEt.png">
